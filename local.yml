@@ -1,5 +1,5 @@
 ---
-- hosts: localhost
+- hosts: UbunTOAR 
   become: true
   tasks:
   - name: Install htop
